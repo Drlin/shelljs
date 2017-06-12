@@ -1,0 +1,4 @@
+Host 47.88.220.215
+    User lin
+    IdentityFile ~/.ssh/id_rsa.travis
+    IdentitiesOnly yes
